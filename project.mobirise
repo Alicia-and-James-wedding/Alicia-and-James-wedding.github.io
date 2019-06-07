@@ -44,7 +44,8 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "gdpr": "",
-    "siteUrl": "undefined"
+    "siteUrl": "undefined",
+    "сanonical-url": ""
   },
   "pages": {
     "index.html": {
